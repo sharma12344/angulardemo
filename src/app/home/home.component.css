@@ -1,0 +1,72 @@
+.card_container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    min-width: 200px;
+    margin: 5px;
+    border: 1px solid black;
+    justify-content: center;
+}
+
+.outer1,
+.outer2 {
+    border: 1px solid #000;
+    padding: 1em;
+    width: 100%;
+}
+
+.flex1,
+.flex2 {
+    display: flex;
+}
+
+.card_container1 {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    min-width: 200px;
+    margin: 5px;
+    border: 1px solid black;
+    justify-content: center;
+}
+
+.card {
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+    color:blueviolet;
+    font-weight: 800;
+}
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+
+.jumbotron{
+
+    padding: 0rem;
+    min-height: 200px;
+    border-radius: 0rem;
+    margin-top: -1rem;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
